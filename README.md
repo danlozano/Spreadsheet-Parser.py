@@ -1,4 +1,4 @@
 Spreadsheet-Parser.py
 =====================
 
-Simple spreadsheet joiner for multiple formats.
+Takes a .csv, .txt, and .xml file and parses them into a .csv file.
